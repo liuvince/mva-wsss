@@ -1,0 +1,14 @@
+*.params
+*.pyc
+data/benchmark
+data/VOCdevkit
+data/benchmark.tgz
+data/VOCtrainval_11-May-2012.tar
+experiment/
+FINCH_Clustering/
+FINCH_Clustering/.idea
+lightning_logs/
+FMix/
+venv/
+.idea/
+.gitignore
