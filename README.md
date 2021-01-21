@@ -128,6 +128,12 @@ python3 compute_cams.py --load_model experiment/fmix_v2/log_dir/best_model.ckpt 
 python3 evaluate_cams.py --cam_dir experiment/fmix_v2/cam_dir
 ```
 
+## Training Weights
+
+```
+https://drive.google.com/drive/folders/1rVqg51eHIUuzNY9tzQES2kGpGV7wp5Oz?usp=sharing
+```
+
 ## Results
 
 Initial class activation maps:
